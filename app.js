@@ -1,3 +1,4 @@
+ //Q. Best Of Approch X Pattern sum of a matrix
  let mat = [[1,1,1,1],[1,1,1,1],[1,1,1,1],[1,1,1,1]]
  let sum = 0;
     let n = mat.length;
