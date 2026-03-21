@@ -15,9 +15,9 @@
 
    //Q.Traversal of a 2d array?
 
-   let Qarr = [[1,2,3],[4,5,6]]
+   let Qarr = [[1,2,3],[4,5,6],[10,9]]
    let ans = Array.from({length:Qarr[0].length},()=>Array(Qarr.length))
-   let l = Qarr.length;
+
 
    for(let i=0;i<ans.length;i++){
      
